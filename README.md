@@ -1,4 +1,4 @@
-# Budget Limit Microservice for [Teammate Name]
+# Budget Limit Microservice for Cam
 
 To request data:
 - Run both the main budget app and microservice simultaneously
